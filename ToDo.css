@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(218, 151, 235);
+}
+.container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    outline: dashed 1px black;
+  }
+.item {
+    width: 50%;
+    height: 50px;
+    /* Center horizontally*/
+    margin: 0 auto;
+  }
+.ListItem{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+li {
+    color: #0a0a0a;
+    padding: 10px;
+    list-style-type: none;
+    text-align: center;
+    font-weight: bold;
+    background: #eadaf3;
+    padding: 0px 590px 10px 5px;
+    border: 1px solid rgb(90, 88, 88);
+    border-radius: 8px;
+}
+input{
+    width: 100%;
+}
+h5{
+    margin-bottom: -2px;
+}
+button{
+    margin-top: 5px;
+    border: 5px solid #0486f7;
+    background-color: #0486f7;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+ul{
+    margin: 30px 350px 5px 310px
+}
+.complete{
+    text-decoration: line-through;
+}
